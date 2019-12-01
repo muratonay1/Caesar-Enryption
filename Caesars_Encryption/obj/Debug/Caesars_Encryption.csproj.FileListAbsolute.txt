@@ -1,0 +1,10 @@
+C:\Users\murat\source\repos\Caesars_Encryption\Caesars_Encryption\bin\Debug\Caesars_Encryption.exe.config
+C:\Users\murat\source\repos\Caesars_Encryption\Caesars_Encryption\bin\Debug\Caesars_Encryption.exe
+C:\Users\murat\source\repos\Caesars_Encryption\Caesars_Encryption\bin\Debug\Caesars_Encryption.pdb
+C:\Users\murat\source\repos\Caesars_Encryption\Caesars_Encryption\obj\Debug\Caesars_Encryption.csprojAssemblyReference.cache
+C:\Users\murat\source\repos\Caesars_Encryption\Caesars_Encryption\obj\Debug\Caesars_Encryption.Properties.Resources.resources
+C:\Users\murat\source\repos\Caesars_Encryption\Caesars_Encryption\obj\Debug\Caesars_Encryption.csproj.GenerateResource.cache
+C:\Users\murat\source\repos\Caesars_Encryption\Caesars_Encryption\obj\Debug\Caesars_Encryption.csproj.CoreCompileInputs.cache
+C:\Users\murat\source\repos\Caesars_Encryption\Caesars_Encryption\obj\Debug\Caesars_Encryption.exe
+C:\Users\murat\source\repos\Caesars_Encryption\Caesars_Encryption\obj\Debug\Caesars_Encryption.pdb
+C:\Users\murat\source\repos\Caesars_Encryption\Caesars_Encryption\obj\Debug\Caesars_Encryption.MainPage.resources
